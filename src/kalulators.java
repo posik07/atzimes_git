@@ -40,6 +40,7 @@ public class kalulators {
 			
 		}
 		// Perakstit masivu
+		// vel komentars
 		
 	
 	for(int i=0; i<kriteriji.length; i++) {
